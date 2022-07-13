@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "package": "netresponse"
+  },
+  {
+    "package": "pint"
+  }
+]
