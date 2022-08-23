@@ -1,8 +1,5 @@
 [
   {
     "package": "netresponse"
-  },
-  {
-    "package": "pint"
   }
 ]

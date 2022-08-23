@@ -8,8 +8,3 @@
 	url = https://github.com/antagomir/netresponse
 	shallow = true
 	registered = true
-[submodule "pint"]
-	path = pint
-	url = https://github.com/antagomir/pint
-	shallow = true
-	registered = true
