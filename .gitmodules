@@ -8,3 +8,8 @@
 	url = https://github.com/antagomir/netresponse
 	shallow = true
 	registered = true
+[submodule "RPA"]
+	path = RPA
+	url = https://git.bioconductor.org/packages/RPA
+	shallow = true
+	registered = true
