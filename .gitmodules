@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "netresponse"]
-	path = netresponse
-	url = https://github.com/antagomir/netresponse
 [submodule "RPA"]
 	path = RPA
 	url = https://git.bioconductor.org/packages/RPA
+[submodule "netresponse"]
+	path = netresponse
+	url = https://github.com/antagomir/netresponse
